@@ -1,0 +1,18 @@
+{
+  "name": "angular-uri",
+  "version": "0.1.0",
+  "homepage": "https://github.com/kareemf/angular-uri",
+  "authors": [
+    "Kareem Francis <francis.kareem@gmail.com>"
+  ],
+  "description": "An angular service that allows URI.js to be dependency injected",
+  "keywords": [
+    "angular"
+  ],
+  "dependencies": {
+    "uri.js": "1.14.1"
+  },
+  "main": [
+    "angular-uri.js"
+  ]
+}
