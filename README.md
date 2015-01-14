@@ -18,7 +18,7 @@ Include URI.js
 Include angular-uri after angular.js and URI.js
 
 ```html
-<script type="text/javascript" src="bower_components/angular-uri.js"></script>
+<script type="text/javascript" src="bower_components/angular-uri/angular-uri.js"></script>
 ```
 
 ### Usage
