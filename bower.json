@@ -6,6 +6,7 @@
     "Kareem Francis <francis.kareem@gmail.com>"
   ],
   "description": "An angular service that allows URI.js to be dependency injected",
+  "license": "MIT",
   "keywords": [
     "angular"
   ],
@@ -15,5 +16,10 @@
   "main": [
     "angular-uri.js"
   ],
-  "ignore": []
+  "ignore": [
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kareemf/angular-uri.git"
+  }
 }
