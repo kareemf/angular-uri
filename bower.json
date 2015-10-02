@@ -11,7 +11,7 @@
     "angular"
   ],
   "dependencies": {
-    "uri.js": "1.14.1"
+    "uri.js": "1.15.2"
   },
   "main": [
     "angular-uri.js"
